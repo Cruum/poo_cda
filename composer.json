@@ -1,0 +1,15 @@
+{
+    "name": "boism/chirposphere",
+    "autoload": {
+        "psr-4": {
+            "Boism\\BackendCda\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Boismain Florian",
+            "email": "boismain.florian@gmail.com"
+        }
+    ],
+    "require": {}
+}
